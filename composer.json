@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sastrawi/tokenizer": "^0.4.0",
+        "sastrawi/sastrawi": "^1.2"
+    }
+}
